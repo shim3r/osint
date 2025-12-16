@@ -1,0 +1,13 @@
+{
+  "url_pattern": "ebay.com/*",
+  "year_from": 2003,
+  "year_to": 2008,
+
+  "cdx_limit": 500,              
+  "sleep_seconds": 0.8,          
+
+  "max_downloads": 50,           
+
+  "save_only_suspicious": true, 
+  "min_score_to_save": 4         
+}

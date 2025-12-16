@@ -104,18 +104,33 @@ def is_html_like(mimetype: str) -> bool:
 
 def load_config() -> dict:
     """
-    Если рядом лежит config.json — подхватит его.
+    Если есть config.json — подхватит его.
     Иначе использует DEFAULT_CONFIG.
     """
     cfg_path = os.path.join(os.getcwd(), "config.json")
+    
     if os.path.exists(cfg_path):
-        with open(cfg_path, "r", encoding="utf-8") as f:
-            user_cfg = json.load(f)
-        merged = DEFAULT_CONFIG.copy()
-        merged.update(user_cfg)
-        return merged
+        try:
+            with open(cfg_path, "r", encoding="utf-8") as f:
+                user_cfg = json.load(f)
+            merged = DEFAULT_CONFIG.copy()
+            merged.update(user_cfg)
+            print(f"[+] Конфиг успешно загружен из {cfg_path}")
+            print(f"    url_pattern: {merged['url_pattern']}")
+            print(f"    save_only_suspicious: {merged.get('save_only_suspicious')}")
+            return merged
+        except json.JSONDecodeError as e:
+            print(f"[!] Ошибка в формате config.json: {e}")
+            print("    Используется дефолтный конфиг.")
+        except Exception as e:
+            print(f"[!] Не удалось прочитать config.json: {e}")
+            print("    Используется дефолтный конфиг.")
+    else:
+        print("[!] config.json не найден в текущей директории.")
+        print("    Используется дефолтный конфиг.")
+    
+    # Этот return — вне всех блоков, выполняется только при отсутствии/ошибке файла
     return DEFAULT_CONFIG.copy()
-
 
 # ---------------- CDX ----------------
 def cdx_query(session: requests.Session, url_pattern: str, year_from: int, year_to: int, limit: int) -> list[dict]:
@@ -350,7 +365,7 @@ def main():
         text = resp.content.decode("utf-8", errors="replace")
         findings = analyze_content(text)
 
-        
+        # метаданные (важны для доклада/доказательности)
         findings.update({
             "timestamp": ts,
             "url": url,

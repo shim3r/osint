@@ -6,8 +6,8 @@
 ## Возможности
 - Получает список URL через CDX API (с датами, mimetype, digest, length)
 - Скачивает "сырые" копии через /web/<timestamp>id_/
-- Сохраняет файлы в `wayback_dump/`
-- Делает отчёт `wayback_dump/findings.json`:
+- Сохраняет файлы в "wayback_dump/"
+- Делает отчёт "wayback_dump/findings.json":
   - email-адреса в HTML/JS
   - form action
   - внешние URL
@@ -18,7 +18,7 @@
 ## Установка
 Рекомендуется использовать виртуальное окружение.
 
-```bash
+
 python3 -m venv venv
 source venv/bin/activate
 python -m pip install -r requirements.txt
