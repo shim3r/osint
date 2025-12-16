@@ -1,0 +1,106 @@
+[
+  {
+    "timestamp": "20040607032410",
+    "original": "http://www.ebay-verification.com:80/?D=A",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "7IDJSHBVXFPPJPQNJU5LYDGRTJTGE5F6",
+    "length": "495"
+  },
+  {
+    "timestamp": "20040608101016",
+    "original": "http://www.ebay-verification.com:80/?D=D",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "3DXLARVMCAR7DNRULSDPUOBBYGH4GCYS",
+    "length": "540"
+  },
+  {
+    "timestamp": "20040607032835",
+    "original": "http://www.ebay-verification.com:80/?M=A",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "443VQIVXW4DRVET7L3YXJJ5YWELM6TIE",
+    "length": "496"
+  },
+  {
+    "timestamp": "20040608101657",
+    "original": "http://www.ebay-verification.com:80/?M=D",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "42O7ZGFBYOPS3SW4BXSEN5HW3T2Q5WV2",
+    "length": "539"
+  },
+  {
+    "timestamp": "20040608102553",
+    "original": "http://www.ebay-verification.com:80/?N=A",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "HJOKMAYNRIOGA35JZL6RKD5QEN5S7DEY",
+    "length": "542"
+  },
+  {
+    "timestamp": "20040607034306",
+    "original": "http://www.ebay-verification.com:80/?S=A",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "YKU36L5EX2GX2SWEF2TF4ZOD5BHKP6GJ",
+    "length": "496"
+  },
+  {
+    "timestamp": "20040608162934",
+    "original": "http://www.ebay-verification.com:80/aol/",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "GD72HHL5JVBOUCX34WET2C5ZXAHLQAX4",
+    "length": "443"
+  },
+  {
+    "timestamp": "20040608163450",
+    "original": "http://www.ebay-verification.com:80/citibank/",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "BJK7RHJAYMWA2EGJD657XQ6LFQ7O2SLY",
+    "length": "445"
+  },
+  {
+    "timestamp": "20040608141247",
+    "original": "http://www.ebay-verification.com:80/e-gold/",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "V3XBKXKPJ4AB7LIZZBUKOP4IPPEDVQY4",
+    "length": "445"
+  },
+  {
+    "timestamp": "20040608141708",
+    "original": "http://www.ebay-verification.com:80/earthlink/",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "HYOUWPHLEBN3WQTPHUUED3S3SYLI52UW",
+    "length": "445"
+  },
+  {
+    "timestamp": "20040607035445",
+    "original": "http://www.ebay-verification.com:80/ebayverification/",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "UEIOADDOCMGUUILGWH5I6OFVMCNF7OSC",
+    "length": "5696"
+  },
+  {
+    "timestamp": "20040607040805",
+    "original": "http://www.ebay-verification.com:80/paypalverify/",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "7UPW3RLX7YR3EHL4UYJQYQN42VZJA6X3",
+    "length": "28329"
+  },
+  {
+    "timestamp": "20030129085908",
+    "original": "http://ebay-verification.com/robots.txt",
+    "mimetype": "unk",
+    "statuscode": "200",
+    "digest": "GB7DUINPO6XFH7KC7NEQFB6UAGAZ4P45",
+    "length": "181"
+  }
+]

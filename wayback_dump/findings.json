@@ -30,18 +30,20 @@
       "http://www.ebay.com/",
       "http://www2.ebay.com/aw/marketing.shtml"
     ],
+    "mentions_brand": true,
     "credential_like_fields": true,
-    "mentions_paypal": true,
-    "sha256": "0b33e7d575c228374736d98fbf1747d0d6b4b0223bb7ba06efce1e7ab4a7e303",
-    "bytes": 24714,
     "timestamp": "20040607035445",
     "url": "http://www.ebay-verification.com:80/ebayverification/",
-    "saved_as": "20040607035445__www.ebay-verification.com_80__ebayverification.html",
+    "bytes": 24714,
+    "sha256": "0b33e7d575c228374736d98fbf1747d0d6b4b0223bb7ba06efce1e7ab4a7e303",
     "cdx_mimetype": "text/html",
     "cdx_digest": "UEIOADDOCMGUUILGWH5I6OFVMCNF7OSC",
     "cdx_length": "5696",
     "cdx_statuscode": "200",
-    "suspicion_score": 7
+    "response_content_type": "text/html",
+    "final_url": "https://web.archive.org/web/20040607035445id_/http://www.ebay-verification.com:80/ebayverification/",
+    "suspicion_score": 18,
+    "saved_as": "20040607035445__www.ebay-verification.com_80__ebayverification.html"
   },
   {
     "hidden_inputs_count": 1,
@@ -87,18 +89,20 @@
       "https://www.paypal.com/images/ebay_co.gif",
       "https://www.paypal.com/images/hlp/help.gif"
     ],
+    "mentions_brand": true,
     "credential_like_fields": true,
-    "mentions_paypal": true,
-    "sha256": "0981f5669774dd8395d89e70b304a152b6a850a4b83784e98c173b1ad7dfabc2",
-    "bytes": 113176,
     "timestamp": "20040607040805",
     "url": "http://www.ebay-verification.com:80/paypalverify/",
-    "saved_as": "20040607040805__www.ebay-verification.com_80__paypalverify.html",
+    "bytes": 113176,
+    "sha256": "0981f5669774dd8395d89e70b304a152b6a850a4b83784e98c173b1ad7dfabc2",
     "cdx_mimetype": "text/html",
     "cdx_digest": "7UPW3RLX7YR3EHL4UYJQYQN42VZJA6X3",
     "cdx_length": "28329",
     "cdx_statuscode": "200",
-    "suspicion_score": 5
+    "response_content_type": "text/html",
+    "final_url": "https://web.archive.org/web/20040607040805id_/http://www.ebay-verification.com:80/paypalverify/",
+    "suspicion_score": 5,
+    "saved_as": "20040607040805__www.ebay-verification.com_80__paypalverify.html"
   },
   {
     "external_urls": [
@@ -106,17 +110,18 @@
       "http://geocities.com/icons/blank.gif",
       "http://geocities.com/icons/folder.gif"
     ],
-    "mentions_paypal": true,
-    "sha256": "9e54ec25fa8ea9300d8efe8638a58a3464e20bb5b317c22ed1a5eca85d88ee70",
-    "bytes": 784,
     "timestamp": "20040607032410",
     "url": "http://www.ebay-verification.com:80/?D=A",
-    "saved_as": "20040607032410__www.ebay-verification.com_80__root__q_D_A.html",
+    "bytes": 784,
+    "sha256": "9e54ec25fa8ea9300d8efe8638a58a3464e20bb5b317c22ed1a5eca85d88ee70",
     "cdx_mimetype": "text/html",
     "cdx_digest": "7IDJSHBVXFPPJPQNJU5LYDGRTJTGE5F6",
     "cdx_length": "495",
     "cdx_statuscode": "200",
-    "suspicion_score": 3
+    "response_content_type": "text/html",
+    "final_url": "https://web.archive.org/web/20040607032410id_/http://www.ebay-verification.com:80/?D=A",
+    "suspicion_score": 0,
+    "saved_as": "20040607032410__www.ebay-verification.com_80__root__q_D_A.html"
   },
   {
     "external_urls": [
@@ -124,17 +129,19 @@
       "http://geocities.com/icons/blank.gif",
       "http://geocities.com/icons/folder.gif"
     ],
-    "mentions_paypal": true,
-    "sha256": "899f9cb7f48c8095044e90c6af36b4db4224a8076894f5b40c909e7910f51e82",
-    "bytes": 1308,
+    "mentions_brand": true,
     "timestamp": "20040608101016",
     "url": "http://www.ebay-verification.com:80/?D=D",
-    "saved_as": "20040608101016__www.ebay-verification.com_80__root__q_D_D.html",
+    "bytes": 1308,
+    "sha256": "899f9cb7f48c8095044e90c6af36b4db4224a8076894f5b40c909e7910f51e82",
     "cdx_mimetype": "text/html",
     "cdx_digest": "3DXLARVMCAR7DNRULSDPUOBBYGH4GCYS",
     "cdx_length": "540",
     "cdx_statuscode": "200",
-    "suspicion_score": 3
+    "response_content_type": "text/html",
+    "final_url": "https://web.archive.org/web/20040608101016id_/http://www.ebay-verification.com:80/?D=D",
+    "suspicion_score": 0,
+    "saved_as": "20040608101016__www.ebay-verification.com_80__root__q_D_D.html"
   },
   {
     "external_urls": [
@@ -142,17 +149,18 @@
       "http://geocities.com/icons/blank.gif",
       "http://geocities.com/icons/folder.gif"
     ],
-    "mentions_paypal": true,
-    "sha256": "d704824525b3de8a487d2f76086cd99ff6c3429a52faff8ef92384c8f97a76eb",
-    "bytes": 784,
     "timestamp": "20040607032835",
     "url": "http://www.ebay-verification.com:80/?M=A",
-    "saved_as": "20040607032835__www.ebay-verification.com_80__root__q_M_A.html",
+    "bytes": 784,
+    "sha256": "d704824525b3de8a487d2f76086cd99ff6c3429a52faff8ef92384c8f97a76eb",
     "cdx_mimetype": "text/html",
     "cdx_digest": "443VQIVXW4DRVET7L3YXJJ5YWELM6TIE",
     "cdx_length": "496",
     "cdx_statuscode": "200",
-    "suspicion_score": 3
+    "response_content_type": "text/html",
+    "final_url": "https://web.archive.org/web/20040607032835id_/http://www.ebay-verification.com:80/?M=A",
+    "suspicion_score": 0,
+    "saved_as": "20040607032835__www.ebay-verification.com_80__root__q_M_A.html"
   },
   {
     "external_urls": [
@@ -160,17 +168,19 @@
       "http://geocities.com/icons/blank.gif",
       "http://geocities.com/icons/folder.gif"
     ],
-    "mentions_paypal": true,
-    "sha256": "1bf8b3a8dc86c1a72694ef32776568276a64fc1fe155e412a192434690b22a74",
-    "bytes": 1308,
+    "mentions_brand": true,
     "timestamp": "20040608101657",
     "url": "http://www.ebay-verification.com:80/?M=D",
-    "saved_as": "20040608101657__www.ebay-verification.com_80__root__q_M_D.html",
+    "bytes": 1308,
+    "sha256": "1bf8b3a8dc86c1a72694ef32776568276a64fc1fe155e412a192434690b22a74",
     "cdx_mimetype": "text/html",
     "cdx_digest": "42O7ZGFBYOPS3SW4BXSEN5HW3T2Q5WV2",
     "cdx_length": "539",
     "cdx_statuscode": "200",
-    "suspicion_score": 3
+    "response_content_type": "text/html",
+    "final_url": "https://web.archive.org/web/20040608101657id_/http://www.ebay-verification.com:80/?M=D",
+    "suspicion_score": 0,
+    "saved_as": "20040608101657__www.ebay-verification.com_80__root__q_M_D.html"
   },
   {
     "external_urls": [
@@ -178,17 +188,19 @@
       "http://geocities.com/icons/blank.gif",
       "http://geocities.com/icons/folder.gif"
     ],
-    "mentions_paypal": true,
-    "sha256": "fa23d1b391738a3c894bbfe342efed4af6fab1b8f53efc9dd48e32de97649803",
-    "bytes": 1308,
+    "mentions_brand": true,
     "timestamp": "20040608102553",
     "url": "http://www.ebay-verification.com:80/?N=A",
-    "saved_as": "20040608102553__www.ebay-verification.com_80__root__q_N_A.html",
+    "bytes": 1308,
+    "sha256": "fa23d1b391738a3c894bbfe342efed4af6fab1b8f53efc9dd48e32de97649803",
     "cdx_mimetype": "text/html",
     "cdx_digest": "HJOKMAYNRIOGA35JZL6RKD5QEN5S7DEY",
     "cdx_length": "542",
     "cdx_statuscode": "200",
-    "suspicion_score": 3
+    "response_content_type": "text/html",
+    "final_url": "https://web.archive.org/web/20040608102553id_/http://www.ebay-verification.com:80/?N=A",
+    "suspicion_score": 0,
+    "saved_as": "20040608102553__www.ebay-verification.com_80__root__q_N_A.html"
   },
   {
     "external_urls": [
@@ -196,80 +208,91 @@
       "http://geocities.com/icons/blank.gif",
       "http://geocities.com/icons/folder.gif"
     ],
-    "mentions_paypal": true,
-    "sha256": "9a0664469b457d1137b7aa626432b318e26e68fdedefa1281e4664c1b8c67e2a",
-    "bytes": 784,
     "timestamp": "20040607034306",
     "url": "http://www.ebay-verification.com:80/?S=A",
-    "saved_as": "20040607034306__www.ebay-verification.com_80__root__q_S_A.html",
+    "bytes": 784,
+    "sha256": "9a0664469b457d1137b7aa626432b318e26e68fdedefa1281e4664c1b8c67e2a",
     "cdx_mimetype": "text/html",
     "cdx_digest": "YKU36L5EX2GX2SWEF2TF4ZOD5BHKP6GJ",
     "cdx_length": "496",
     "cdx_statuscode": "200",
-    "suspicion_score": 3
+    "response_content_type": "text/html",
+    "final_url": "https://web.archive.org/web/20040607034306id_/http://www.ebay-verification.com:80/?S=A",
+    "suspicion_score": 0,
+    "saved_as": "20040607034306__www.ebay-verification.com_80__root__q_S_A.html"
   },
   {
     "external_urls": [
       "http://geocities.com/icons/back.gif",
       "http://geocities.com/icons/blank.gif"
     ],
-    "sha256": "29f2423ebe625ba04d7e4552931c951b0bf6cc8d5f134fc2e03e77237a0c1284",
-    "bytes": 504,
+    "mentions_brand": true,
     "timestamp": "20040608162934",
     "url": "http://www.ebay-verification.com:80/aol/",
-    "saved_as": "20040608162934__www.ebay-verification.com_80__aol.html",
+    "bytes": 504,
+    "sha256": "29f2423ebe625ba04d7e4552931c951b0bf6cc8d5f134fc2e03e77237a0c1284",
     "cdx_mimetype": "text/html",
     "cdx_digest": "GD72HHL5JVBOUCX34WET2C5ZXAHLQAX4",
     "cdx_length": "443",
     "cdx_statuscode": "200",
-    "suspicion_score": 1
+    "response_content_type": "text/html",
+    "final_url": "https://web.archive.org/web/20040608162934id_/http://www.ebay-verification.com:80/aol/",
+    "suspicion_score": 0,
+    "saved_as": "20040608162934__www.ebay-verification.com_80__aol.html"
   },
   {
     "external_urls": [
       "http://geocities.com/icons/back.gif",
       "http://geocities.com/icons/blank.gif"
     ],
-    "sha256": "884907dcead42ebd381f651d0e1518374a1826e24e6db49aff9178c3f350b69c",
-    "bytes": 514,
+    "mentions_brand": true,
     "timestamp": "20040608163450",
     "url": "http://www.ebay-verification.com:80/citibank/",
-    "saved_as": "20040608163450__www.ebay-verification.com_80__citibank.html",
+    "bytes": 514,
+    "sha256": "884907dcead42ebd381f651d0e1518374a1826e24e6db49aff9178c3f350b69c",
     "cdx_mimetype": "text/html",
     "cdx_digest": "BJK7RHJAYMWA2EGJD657XQ6LFQ7O2SLY",
     "cdx_length": "445",
     "cdx_statuscode": "200",
-    "suspicion_score": 1
+    "response_content_type": "text/html",
+    "final_url": "https://web.archive.org/web/20040608163450id_/http://www.ebay-verification.com:80/citibank/",
+    "suspicion_score": 0,
+    "saved_as": "20040608163450__www.ebay-verification.com_80__citibank.html"
   },
   {
     "external_urls": [
       "http://geocities.com/icons/back.gif",
       "http://geocities.com/icons/blank.gif"
     ],
-    "sha256": "7c7ee7dd461b34901860d44155dfad8f7e1d89eb103e85286735896bc653b8fe",
-    "bytes": 510,
     "timestamp": "20040608141247",
     "url": "http://www.ebay-verification.com:80/e-gold/",
-    "saved_as": "20040608141247__www.ebay-verification.com_80__e-gold.html",
+    "bytes": 510,
+    "sha256": "7c7ee7dd461b34901860d44155dfad8f7e1d89eb103e85286735896bc653b8fe",
     "cdx_mimetype": "text/html",
     "cdx_digest": "V3XBKXKPJ4AB7LIZZBUKOP4IPPEDVQY4",
     "cdx_length": "445",
     "cdx_statuscode": "200",
-    "suspicion_score": 1
+    "response_content_type": "text/html",
+    "final_url": "https://web.archive.org/web/20040608141247id_/http://www.ebay-verification.com:80/e-gold/",
+    "suspicion_score": 0,
+    "saved_as": "20040608141247__www.ebay-verification.com_80__e-gold.html"
   },
   {
     "external_urls": [
       "http://geocities.com/icons/back.gif",
       "http://geocities.com/icons/blank.gif"
     ],
-    "sha256": "430497ce88beef0ec87dae4eafdc8a8a9cc6714208a38c070b09d02ad1124c5c",
-    "bytes": 516,
     "timestamp": "20040608141708",
     "url": "http://www.ebay-verification.com:80/earthlink/",
-    "saved_as": "20040608141708__www.ebay-verification.com_80__earthlink.html",
+    "bytes": 516,
+    "sha256": "430497ce88beef0ec87dae4eafdc8a8a9cc6714208a38c070b09d02ad1124c5c",
     "cdx_mimetype": "text/html",
     "cdx_digest": "HYOUWPHLEBN3WQTPHUUED3S3SYLI52UW",
     "cdx_length": "445",
     "cdx_statuscode": "200",
-    "suspicion_score": 1
+    "response_content_type": "text/html",
+    "final_url": "https://web.archive.org/web/20040608141708id_/http://www.ebay-verification.com:80/earthlink/",
+    "suspicion_score": 0,
+    "saved_as": "20040608141708__www.ebay-verification.com_80__earthlink.html"
   }
 ]
